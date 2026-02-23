@@ -9,5 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module",
+  "dependencies": {
+    "@types/websocket": "^1.0.10",
+    "websocket": "^1.0.35",
+    "ws": "^8.19.0"
+  }
 }
